@@ -9,3 +9,4 @@
 - Nissan
 - Jaguar
 - Subaru
+- Kia
