@@ -8,3 +8,4 @@
 - Honda
 - Nissan
 - Jaguar
+- Kia
