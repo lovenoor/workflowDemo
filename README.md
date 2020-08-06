@@ -10,3 +10,4 @@
 - Jaguar
 - Subaru
 - Kia
+- Mercedes-Benz
